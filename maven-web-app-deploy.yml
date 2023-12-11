@@ -18,7 +18,7 @@ spec:
   spec: 
     containers:
     - name: mavenwebappcontainer
-      image: hari13242/project1
+      image: hari13242/project2
       imagePullPolicy: Always
       ports:
       - containerPort: 8080
